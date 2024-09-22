@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/kushalbang2" target="blank"><img src="https://img.shields.io/twitter/follow/kushalbang2?logo=twitter&style=for-the-badge" alt="kushalbang2" /></a> </p>
 
-- 🔭 I’m currently working on **Transport Services LLM Chatbot**
+- 🔭 I’m currently working on **Review Bot**
 
 - 📫 How to reach me **kushalbang456@gmail.com**
 
